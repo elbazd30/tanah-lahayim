@@ -1,0 +1,15 @@
+# קבצים גדולים מדי לגיטהאב
+tanah_lahayim_standalone.html
+tanah_lahayim_site.zip
+
+# קובץ הצ'אט הפרטי
+*.txt
+
+# סקריפטים זמניים
+gen_header.py
+embed_images.py
+debug_images.py
+
+# Python cache
+__pycache__/
+*.pyc
